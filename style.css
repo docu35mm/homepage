@@ -1,0 +1,55 @@
+body {
+  background-color: lightblue;
+}
+.title {
+  background-color: black;
+  min-height:100px;
+  padding: 20px;
+  margin-bottom:30px;
+}
+.bar {
+  width: 2rem;
+  background-color: #2a2a2a;
+  height: 0.25rem;
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+}
+.title h1 {
+  color: white;
+  font-weight: bold;
+  word-spacing: -0.02em;
+  font-family: Batang;
+}
+img {
+  width: 100%;
+}
+
+p{
+  margin-right:20px;
+  text-align: justify;
+}
+.row {
+  margin-bottom: 50px;
+}
+.subtitle {
+  display: inline-block;
+  color: #FFFFFF;
+  background-color: #D8070E;
+  font-weight: bold;
+  padding: 2px 12px 1px;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  border-radius: 2px;
+}
+img {
+  width:100%;
+}
+.bottom {
+  background: black;
+  height: 50px;
+}
+.reference h1 {
+  font-size: 15px;
+  text-align: left;
+  font-weight: 500;
+}
